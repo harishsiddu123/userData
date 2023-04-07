@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+label{
+  display: inline-block;
+  text-align: left;
+  width: 100px;
+  margin-bottom:20px ;
+}
+form{
+  width: 300px;
+  background-color: aqua;
+  position: relative;
+  margin-top: 50px;
+ left: 500px;
+}
+
+table,th,td{
+  border: 2px solid black;
+  margin-bottom: 50px;
+ 
+  
+}
+.TableContainer{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top:100px ;
+}
